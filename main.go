@@ -39,7 +39,7 @@ func main() {
 }
 
 func printHelpOptions() {
-	fmt.Print("Hey, friend.\nd2reel match_id0+ [flag option]*\n\n")
+	fmt.Print("Hey, friend.\nd2reel match_id+ [flag option]*\n\n")
 	fmt.Print("You can place any number of match ids, d2reel will parse them all.\nFlags can appear anywhere in the argument list, not just after all the match ids.\n\n");
 	
 	// Aren't any real options right now... I'll add more once I get the ball rolling with development.

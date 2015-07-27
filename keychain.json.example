@@ -1,4 +1,4 @@
-* REMOVE these 'comments' when adding keys! *
+* ~~ vv REMOVE all this non-JSON text (including this line) after adding keys! vv ~~ *
 
 To retrieve matches from Valve, you need a Web API key.
 Mine is ignored from this repository, so you can't make calls on my behalf. ;)
@@ -10,6 +10,7 @@ Mine is ignored from this repository, so you can't make calls on my behalf. ;)
 This file, keychain.json.example is NOT actually used by the program,
 it's just a layout of what the keychain.json file should look like.
 
+* ~~ ^^ REMOVE all this non-JSON text (including this line) after adding keys! ^^ ~~ *
 
 
 {
