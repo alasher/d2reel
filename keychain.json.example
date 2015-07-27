@@ -1,0 +1,19 @@
+* REMOVE these 'comments' when adding keys! *
+
+To retrieve matches from Valve, you need a Web API key.
+Mine is ignored from this repository, so you can't make calls on my behalf. ;)
+
+1. Before building, remove the .example extension to this file (just 'keychain.json'.)
+2. Update the values in brackets with your personal credentials
+3. Remove all this header text you're reading now, everything above the lone '{' character.
+
+This file, keychain.json.example is NOT actually used by the program,
+it's just a layout of what the keychain.json file should look like.
+
+
+
+{
+	"WebAPIKey": "[Steam Web API Key goes here]",
+	"SteamUsername": "[Steam username goes here]",
+	"SteamPassword": "[Corresponding password for Steam user goes here]"
+}
